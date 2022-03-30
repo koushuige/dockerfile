@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.5.0
+FROM k8s.gcr.io/sig-storage/csi-resizer:v1.4.0
