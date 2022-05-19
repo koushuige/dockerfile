@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.0.1
+FROM k8s.gcr.io/sig-storage/csi-node-driver-registrar@sha256:e07f914c32f0505e4c470a62a40ee43f84cbf8dc46ff861f31b14457ccbad108
