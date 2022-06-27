@@ -1,1 +1,1 @@
-FROM  gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.37.0
+FROM   ghcr.io/distroless/busybox@sha256:19f02276bf8dbdd62f069b922f10c65262cc34b710eea26ff928129a736be791
