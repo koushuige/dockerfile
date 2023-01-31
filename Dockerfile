@@ -1,1 +1,1 @@
-FROM   ghcr.io/distroless/busybox@sha256:19f02276bf8dbdd62f069b922f10c65262cc34b710eea26ff928129a736be791
+FROM   gcr.io/knative-releases/knative.dev/operator/cmd/operator@sha256:15fdcd6927ec3415fe2cca17f85c395b67522f716a255bffb23de855c0ccc6b6
