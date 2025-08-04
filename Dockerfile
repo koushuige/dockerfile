@@ -1,1 +1,1 @@
-FROM   oamdev/kube-webhook-certgen:v2.4.1
+FROM   seataio/seata-server:1.8.0.2
